@@ -1,13 +1,13 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
+
 title: Diana's Messy Space # give your site a title
 email: fc4431@wayne.edu # put your email address in here; optional
 # edit your site description; keep it brief
-description: > # this just means to ignore newlines until "baseurl:"
-  A simple blog and portfolio based in coding and anxiety.
-baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+description: "A simple blog and portfolio based in coding and anxiety."
 url: http://dianarosenberger.github.io # replace [username] with your github username (no brackets)
 github_username: dianarosenberger # replace with your github username
+
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings

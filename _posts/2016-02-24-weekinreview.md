@@ -42,8 +42,11 @@ As [Noah](http://noahmcmlln.github.io/blog/2016-02-17/clarification-and-confusio
 **Recommended Reading for the Scott Richmond Book Club:**  
 
 “The Internet as the Anti-Television” by Christian Sandvig
+
 *New Media, Old Media: A History and Theory Reader* ed. Wendy Chung and Anna Fisher
+
 “A Mathematical Theory of Information” by Claude Shannon
+
 “‘Animated Pictures’, Tales of Cinema’s Forgotten Future” by Tom Gunning
 
 **Further questions:**

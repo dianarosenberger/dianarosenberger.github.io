@@ -19,7 +19,7 @@ In pursuing our project, we also wanted to test a theoretical point that the cla
 
 **Specifications**
 
-*Material materials:*
+*Material materials:*  
 Makey Makey  
 Wires with alligator clips (6)  
 Breadboard wires (2)  
@@ -28,41 +28,41 @@ Computer
 USB cord  
 Table  
 
-*Immaterial materials:*
-Access to automatedbeacon.net
-SnagIt software
-Functioning internet browser
+*Immaterial materials:*  
+Access to automatedbeacon.net  
+SnagIt software  
+Functioning internet browser  
 
-*Immaterially material materials:*
-Humans (3)
+*Immaterially material materials:*  
+Humans (3)  
 
-*Setup:* 
-1.	Configure 2 breadboard wires to attach to “F” and “right click” on Makey Makey.
-2.	Attach 1 alligator clip to each of the breadboard wires. Attach an additional alligator clip to the “click” space on the Makey Makey.
-3.	Form Play Doh into 3 separate round, flat, smooth surfaces; each should be roughly the size of one’s palm.
-4.	Insert the other end of the 3 alligator clips (the ones already attached to the Makey Makey) into separate Play Doh molds (each alligator clip gets its own Play Doh surface).
-5.	Attach remaining 3 alligator clips to “earth” section on Makey Makey.
-6.	Plug Makey Makey into computer with USB cord.
-7.	Download SnagIt software (available for 15 day free trial).
-8.	Once downloaded, close SnagIt window, leaving *only* the small SnagIt “capture” display to the bottom, side, or top of computer screen.
-9.	Display automatedbeacon.net in Internet browser.
-10.	Make sure all materials (Makey Makey, Play Doh, computer) are safely on table surface and can be easily accessed by users.
+*Setup:*  
+1.	Configure 2 breadboard wires to attach to “F” and “right click” on Makey Makey.  
+2.	Attach 1 alligator clip to each of the breadboard wires. Attach an additional alligator clip to the “click” space on the Makey Makey.  
+3.	Form Play Doh into 3 separate round, flat, smooth surfaces; each should be roughly the size of one’s palm.  
+4.	Insert the other end of the 3 alligator clips (the ones already attached to the Makey Makey) into separate Play Doh molds (each alligator clip gets its own Play Doh surface).  
+5.	Attach remaining 3 alligator clips to “earth” section on Makey Makey.  
+6.	Plug Makey Makey into computer with USB cord.  
+7.	Download SnagIt software (available for 15 day free trial).  
+8.	Once downloaded, close SnagIt window, leaving *only* the small SnagIt “capture” display to the bottom, side, or top of computer screen.  
+9.	Display automatedbeacon.net in Internet browser.  
+10.	Make sure all materials (Makey Makey, Play Doh, computer) are safely on table surface and can be easily accessed by users.  
 
 *Instructions:*
-1.	Automatedbeacon.net should be running on computer screen. SnagIt “capture” should be to the top, side, or bottom of screen, ensuring it does not interfere with visibility of flashing search queries. 
-2.	Each of the 3 human users should hold their own alligator clip, the end of which is attached to “earth.” 
-3.	Each person should decide on one of three different roles. The roles are as follows:
-User #1: Initiates capture – in control of “click” command
-User #2: Completes/saves capture – in control of “F” command
-User #3: Cancels/rescinds capture – in control of “right click” command
-4.	Each user should have access to the Play Doh mold that corresponds with their command. For example, User #1’s designated Play Doh is the one that corresponds with the “click” command, etc.
-5.	As automatedbeacon.net runs, users should collectively decide on search queries that feel appropriate to include in a collaborative poem. How users decide what is “appropriate” will vary. 
-6.	When a choice is made, User #1 should initiate the SnagIt “capture” function by pressing his or her Play Doh.
-7.	While User #1 initiates the decision, User #2 must decide whether or not to “save” the capture. User #2 can “save” the capture by pressing his or her Play Doh.
-8.	User #3 has the option to “cancel” the capture before User #2 “saves” it. User #3 can “cancel” the capture by pressing his or her Play Doh. 
-9.	Users may choose to verbally communicate among themselves or to not communicate at all. 
-10.	Users may also decide when the appropriate number of search queries has been saved.
-11.	Once finished, users may access saved search queries via the SnagIt software. Users should then create a poem from collected queries. Users may choose to arrange, modify, or supplement queries as they see fit. 
+1.	Automatedbeacon.net should be running on computer screen. SnagIt “capture” should be to the top, side, or bottom of screen, ensuring it does not interfere with visibility of flashing search queries.  
+2.	Each of the 3 human users should hold their own alligator clip, the end of which is attached to “earth.”  
+3.	Each person should decide on one of three different roles. The roles are as follows:  
+User #1: Initiates capture – in control of “click” command  
+User #2: Completes/saves capture – in control of “F” command  
+User #3: Cancels/rescinds capture – in control of “right click” command  
+4.	Each user should have access to the Play Doh mold that corresponds with their command. For example, User #1’s designated Play Doh is the one that corresponds with the “click” command, etc.  
+5.	As automatedbeacon.net runs, users should collectively decide on search queries that feel appropriate to include in a collaborative poem. How users decide what is “appropriate” will vary.  
+6.	When a choice is made, User #1 should initiate the SnagIt “capture” function by pressing his or her Play Doh.  
+7.	While User #1 initiates the decision, User #2 must decide whether or not to “save” the capture. User #2 can “save” the capture by pressing his or her Play Doh.  
+8.	User #3 has the option to “cancel” the capture before User #2 “saves” it. User #3 can “cancel” the capture by pressing his or her Play Doh.  
+9.	Users may choose to verbally communicate among themselves or to not communicate at all.  
+10.	Users may also decide when the appropriate number of search queries has been saved.  
+11.	Once finished, users may access saved search queries via the SnagIt software. Users should then create a poem from collected queries. Users may choose to arrange, modify, or supplement queries as they see fit.  
 
 
 **Rationale**
